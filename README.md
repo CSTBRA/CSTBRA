@@ -1,8 +1,6 @@
 # Bem-vindo ao meu Github 👋
 <div>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CSTBRA&layout=compact&langs_count=7&theme=dark"/>
-
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CSTBRA&show_icons=true&theme=dark)
+<img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CSTBRA&layout=compact&langs_count=7&theme=dark"/> 
 </div>
 ## Minhas Tecnologias
 <div>
